@@ -1,0 +1,6 @@
+s=set(l)
+3 4 23 56 
+l=list(s)
+fmax=max(l)
+l.remove(fmax)
+smax=max(l)
